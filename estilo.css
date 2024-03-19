@@ -109,7 +109,7 @@ main{
 .contenedor-derecho{
     position: absolute;
     left: 30px;
-    top: 110px;
+    top: 90px;
     box-sizing: border-box;
     padding-top: 50px;
 }
